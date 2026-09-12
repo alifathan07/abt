@@ -1,56 +1,44 @@
 <div align="center">
 
-<br>
-
-# ⟨ **ALI FATHAN** ⟩
-
-### `I build software that solves real business problems.`
-
-<br>
-
-<table>
-<tr>
-<td align="center">
-
-**⚡ FULL-STACK**
-
-</td>
-<td align="center">◆</td>
-<td align="center">
-
-**◈ BACKEND-FOCUSED**
-
-</td>
-<td align="center">◆</td>
-<td align="center">
-
-**🚀 BUILDER**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-`◉` **Casablanca, Morocco**
-
 <br><br>
+
+<pre>
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│                      A L I   F A T H A N                     │
+│                                                              │
+│          I BUILD SOFTWARE THAT SOLVES REAL                   │
+│                     BUSINESS PROBLEMS.                       │
+│                                                              │
+│     ┌────────────┐   ┌─────────────────┐   ┌───────────┐    │
+│     │ FULL-STACK │   │ BACKEND-FOCUSED │   │  BUILDER  │    │
+│     └────────────┘   └─────────────────┘   └───────────┘    │
+│                                                              │
+│                    ◉ CASABLANCA, MOROCCO                     │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+</pre>
+
+<br>
 
 <a href="https://github.com/alifathan07">
-<img src="https://img.shields.io/badge/%E2%86%92%20EXPLORE%20MY%20WORK-C2793E?style=for-the-badge&labelColor=121C28&color=C2793E" />
+<img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20MY%20WORK-121C28?style=for-the-badge&logoColor=white" />
 </a>
 
-  
+    
 
 <a href="mailto:alifathan0210@gmail.com">
-<img src="https://img.shields.io/badge/%E2%86%97%20GET%20IN%20TOUCH-E8EDF2?style=for-the-badge&labelColor=121C28&color=121C28" />
+<img src="https://img.shields.io/badge/%E2%86%97%20GET%20IN%20TOUCH-C2793E?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+<pre>
+                ──────────────── ◆ ────────────────
+</pre>
 
 </div>
+
 
 ---
 
