@@ -1,22 +1,55 @@
 <div align="center">
-<br>
-
-# Ali Fathan
-
-### I build software that solves real business problems.
-
-![full-stack](https://img.shields.io/badge/full--stack-121C28?style=flat-square)
-![backend-focused](https://img.shields.io/badge/backend--focused-121C28?style=flat-square)
-![builder](https://img.shields.io/badge/builder-121C28?style=flat-square)
-
-📍 Casablanca, Morocco
 
 <br>
 
-[![Explore my work](https://img.shields.io/badge/Explore_my_work-C2793E?style=flat-square&logo=github&logoColor=0F1720)](https://github.com/alifathan07)
-[![Get in touch](https://img.shields.io/badge/Get_in_touch-0F1720?style=flat-square&logo=gmail&logoColor=E8EDF2)](mailto:alifathan0210@gmail.com)
+# ⟨ **ALI FATHAN** ⟩
+
+### `I build software that solves real business problems.`
 
 <br>
+
+<table>
+<tr>
+<td align="center">
+
+**⚡ FULL-STACK**
+
+</td>
+<td align="center">◆</td>
+<td align="center">
+
+**◈ BACKEND-FOCUSED**
+
+</td>
+<td align="center">◆</td>
+<td align="center">
+
+**🚀 BUILDER**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+`◉` **Casablanca, Morocco**
+
+<br><br>
+
+<a href="https://github.com/alifathan07">
+<img src="https://img.shields.io/badge/%E2%86%92%20EXPLORE%20MY%20WORK-C2793E?style=for-the-badge&labelColor=121C28&color=C2793E" />
+</a>
+
+  
+
+<a href="mailto:alifathan0210@gmail.com">
+<img src="https://img.shields.io/badge/%E2%86%97%20GET%20IN%20TOUCH-E8EDF2?style=for-the-badge&labelColor=121C28&color=121C28" />
+</a>
+
+<br><br>
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
 </div>
 
 ---
