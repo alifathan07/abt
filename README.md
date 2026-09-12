@@ -1,46 +1,71 @@
 <div align="center">
 
-<br><br>
+<br>
 
-<pre>
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│                      A L I   F A T H A N                     │
-│                                                              │
-│          I BUILD SOFTWARE THAT SOLVES REAL                   │
-│                     BUSINESS PROBLEMS.                       │
-│                                                              │
-│     ┌────────────┐   ┌─────────────────┐   ┌───────────┐    │
-│     │ FULL-STACK │   │ BACKEND-FOCUSED │   │  BUILDER  │    │
-│     └────────────┘   └─────────────────┘   └───────────┘    │
-│                                                              │
-│                    ◉ CASABLANCA, MOROCCO                     │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-</pre>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1720,50:121C28,100:C2793E&height=180&section=header&text=ALI%20FATHAN&fontSize=52&fontColor=E8EDF2&fontAlignY=55&desc=FULL-STACK%20%E2%80%A2%20BACKEND-FOCUSED%20%E2%80%A2%20BUILDER&descSize=14&descAlignY=75&descColor=C2793E" width="100%"/>
 
 <br>
 
+### `I build software that solves real business problems.`
+
+<br>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**FULL-STACK**
+
+<br>
+
+`01`
+
+</td>
+
+<td width="33%" align="center">
+
+**BACKEND-FOCUSED**
+
+<br>
+
+`02`
+
+</td>
+
+<td width="33%" align="center">
+
+**BUILDER**
+
+<br>
+
+`03`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<code>📍 Casablanca, Morocco</code>
+
+<br><br>
+
 <a href="https://github.com/alifathan07">
-<img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20MY%20WORK-121C28?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-121C28?style=for-the-badge&logo=github&logoColor=E8EDF2&labelColor=121C28" />
 </a>
 
-    
+  
 
 <a href="mailto:alifathan0210@gmail.com">
-<img src="https://img.shields.io/badge/%E2%86%97%20GET%20IN%20TOUCH-C2793E?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-C2793E?style=for-the-badge&logo=gmail&logoColor=0F1720&labelColor=C2793E" />
 </a>
 
 <br><br>
 
-<pre>
-                ──────────────── ◆ ────────────────
-</pre>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C2793E&height=2&section=footer" width="80%"/>
 
 </div>
 
-
----
 
 <div align="center">
 
