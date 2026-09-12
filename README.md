@@ -1,8 +1,8 @@
-# Hey, I'm Fathan 👋
+# Hey, I'm Ali 👋
 
 ### Full-Stack Developer • Builder • Problem Solver
 
-I build software that solves **real business problems**, not just tutorial projects.
+I build software that solves **real business problems**
 
 Currently focused on **Node.js, Express, MySQL, Prisma, and backend development**, while building and improving real-world applications.
 
