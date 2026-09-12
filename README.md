@@ -6,249 +6,302 @@
 
 **I build software that replaces real-world chaos with systems.**
 
-🇲🇦 Morocco · 💻 Backend-focused · 🚀 Building in public
+🇲🇦 Morocco · Backend-focused · Business Software
 
-[![GitHub](https://img.shields.io/badge/GitHub-alifathan07-181717?style=for-the-badge\&logo=github)](https://github.com/alifathan07)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:alifathan0210@gmail.com)
+<br>
+
+<a href="https://github.com/alifathan07">
+<img src="https://img.shields.io/badge/GitHub-alifathan07-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:alifathan0210@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### `SYSTEM STATUS`
+
+|                  | STATUS                               |
+| ---------------- | ------------------------------------ |
+| 🟢 **SHIPPED**   | Construction ERP                     |
+| 🔵 **BUILDING**  | Moroccan Payroll System              |
+| ⚡ **FOCUS**      | Backend · Databases · Business Logic |
+| 🎯 **DIRECTION** | Software → Products → SaaS           |
 
 </div>
 
 ---
 
-## `01 / WHO I AM`
+# `01` — WHO I AM
 
 ```text
+ali@morocco:~$ whoami
+
+Backend-focused full-stack developer
+building software for real businesses.
+
 I don't build projects just to put them on GitHub.
 
-I build software to solve problems that businesses
-already have — messy workflows, manual operations,
-bad data, repetitive work.
+I build → ship → get feedback → improve.
 
-My approach:
-
-    PROBLEM
-       ↓
-    UNDERSTAND
-       ↓
-    DESIGN
-       ↓
-    BUILD
-       ↓
-    SHIP
-       ↓
-    IMPROVE
+Current interests:
+├── Backend architecture
+├── Business applications
+├── Databases & data modeling
+├── Authentication & permissions
+├── Payroll / financial systems
+└── Turning software into products
 ```
 
-I'm currently deepening my skills in:
-
-`Node.js` · `Express` · `MySQL` · `Prisma` · `Authentication` · `System Design`
+> **Real problems > tutorial projects.**
 
 ---
 
-# `02 / SHIPPED`
+# `02` — WHAT I'VE SHIPPED
 
-## 🏗️ CONFONDA ERP
+## 🏗️ Confonda ERP
 
-> **A real ERP. A real company. Real daily usage.**
+<table>
+<tr>
+<td width="60%">
 
-I built and shipped a complete business management system for a construction company.
+### A real business system
 
-Not a tutorial.
+A web-based ERP built for a **construction company** and used for actual day-to-day operations.
 
-Not a fake SaaS landing page.
+It replaces fragmented manual workflows with one connected system.
 
-**A system built around real operations.**
+**Core modules**
 
-### The system
+* Purchasing & suppliers
+* Treasury & payments
+* Sales & invoicing
+* Construction sites
+* Cash management
+* Users & permissions
+* Dashboards & reports
+* PDF & Excel generation
+* Email & WhatsApp notifications
+* Mobile / API integration
+
+</td>
+
+<td width="40%">
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│                     CONFONDA ERP                        │
-├───────────────┬───────────────┬─────────────────────────┤
-│   PURCHASING  │   TREASURY    │       PROJECTS         │
-│   Suppliers   │   Payments    │       Chantiers        │
-│   Orders      │   Cheques     │       Expenses         │
-│   Invoices    │   Transfers   │       Cash             │
-├───────────────┼───────────────┼─────────────────────────┤
-│     SALES     │   REPORTING   │      OPERATIONS        │
-│   Invoices    │   Dashboards  │      Permissions       │
-│   Customers   │   PDF / Excel │      Notifications     │
-└───────────────┴───────────────┴─────────────────────────┘
+┌──────────────────────┐
+│      CONFONDA ERP    │
+├──────────────────────┤
+│                      │
+│  PURCHASES           │
+│       ↓              │
+│  SUPPLIERS           │
+│       ↓              │
+│  PROJECTS            │
+│       ↓              │
+│  TREASURY            │
+│       ↓              │
+│  CASH FLOW           │
+│                      │
+└──────────────────────┘
 ```
 
-### Built with
+**STACK**
 
-`Node.js` `Express` `Prisma` `MySQL` `EJS` `JavaScript`
+`Node.js`
+`Express`
+`Prisma`
+`MySQL`
+`EJS`
 
-### What makes it matter
+</td>
+</tr>
+</table>
 
-**The software is actually used.**
+### The important part
 
-That changed how I think about development.
+```text
+This wasn't built as a portfolio project.
 
-You don't just write code.
-
-You deal with:
-
-* business rules
-* users
-* edge cases
-* permissions
-* financial data
-* changing requirements
-* deployment
-* maintenance
-
-That's where software engineering actually starts.
+It was built for a real company,
+with real workflows,
+real users,
+and real operational requirements.
+```
 
 ---
 
-# `03 / CURRENT BUILD`
+# `03` — CURRENT BUILD
 
-## 🇲🇦 MOROCCAN PAYROLL
-
-**Building a payroll system around Moroccan business rules.**
-
-The objective:
-
-> Take something traditionally handled through spreadsheets and manual calculations and turn it into a reliable software system.
-
-### Engine
+## 🇲🇦 Moroccan Payroll System
 
 ```text
-Employee
-   │
-   ├── Salary
-   ├── Bonuses
-   ├── Absences
-   ├── Overtime
-   └── Dependents
-          │
-          ▼
-    ┌─────────────┐
-    │ PAYROLL     │
-    │   ENGINE    │
-    └─────────────┘
-          │
-          ├── CNSS
-          ├── AMO
-          ├── IR
-          ├── Deductions
-          └── Net Salary
-                  │
-                  ▼
-              PAYSLIP
+                    ┌─────────────────┐
+                    │     COMPANY     │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │    EMPLOYEES    │
+                    └────────┬────────┘
+                             │
+                             ▼
+              ┌──────────────────────────┐
+              │      PAYROLL ENGINE      │
+              ├──────────────────────────┤
+              │ CNSS                     │
+              │ AMO                      │
+              │ Seniority                │
+              │ Absences                 │
+              │ Bonuses                  │
+              │ Cumulative IR            │
+              │ Net Salary               │
+              └────────────┬─────────────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │   BULLETIN   │
+                    └──────────────┘
 ```
 
 ### Current focus
 
-`Payroll Engine` · `CNSS` · `AMO` · `Cumulative IR` · `Payslips`
-`Employee Management` · `Companies` · `Authentication` · `Permissions`
+`Payroll calculations` → `Database design` → `Authentication` → `Business rules` → `Payslips`
 
-**Stack:** `Node.js` `Express` `Prisma` `MySQL` `EJS`
+Built around **Moroccan payroll workflows**, not generic demo calculations.
 
 ---
 
-# `04 / THE STACK`
+# `04` — THE STACK
 
 <div align="center">
 
 ### BACKEND
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,js" />
 
 ### DATABASE
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,prisma" />
 
 ### FRONTEND
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge\&logo=ejs\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,jquery" />
 
-### TOOLING
+### TOOLS
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
 
 ---
 
-# `05 / HOW I THINK`
+# `05` — HOW I BUILD
 
-```javascript
+```js
 const philosophy = {
-    tutorials: "useful",
-    building: "essential",
-    shipping: "non-negotiable",
-    businessValue: "the goal"
+    learn: "understand the system",
+    build: "solve the real problem",
+    ship: "put it in production",
+    feedback: "listen to users",
+    improve: "repeat"
 };
-
-function improve() {
-    learn();
-    build();
-    ship();
-    getFeedback();
-    repeat();
-}
 ```
 
-I'm not trying to collect 30 technologies.
+I care less about collecting technologies and more about understanding:
 
-I'm trying to become dangerous with the technologies I actually use.
+```text
+         PROBLEM
+            │
+            ▼
+        REQUIREMENTS
+            │
+            ▼
+        DATA MODEL
+            │
+            ▼
+       BUSINESS LOGIC
+            │
+            ▼
+           API
+            │
+            ▼
+            UI
+            │
+            ▼
+        REAL USERS
+            │
+            ▼
+         FEEDBACK
+            │
+            └──────► IMPROVE
+```
 
 ---
 
-# `06 / DIRECTION`
+# `06` — WHERE I'M GOING
+
+<div align="center">
 
 ```text
-             SOFTWARE
-                 │
-        ┌────────┴────────┐
-        │                 │
-     ENGINEERING       BUSINESS
-        │                 │
-     Systems           Problems
-     Architecture      Workflows
-     Databases         Operations
-        │                 │
-        └────────┬────────┘
-                 │
-              PRODUCTS
-                 │
-                 ▼
-               VALUE
+          FREELANCE
+              │
+              ▼
+       REAL SOFTWARE
+              │
+              ▼
+       BUSINESS SYSTEMS
+              │
+              ▼
+           PRODUCTS
+              │
+              ▼
+             SaaS
 ```
 
-### Long term
+### The goal isn't to become someone who knows 30 frameworks.
 
-**Freelance → Products → SaaS**
+### The goal is to become someone who can take a real problem → build the system → ship it → get paid.
 
-Build useful software.
+</div>
 
-Get it into people's hands.
+---
 
-Make it valuable enough that they pay for it.
+# `07` — CURRENTLY
 
-Repeat.
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  BUILDING        🇲🇦 Moroccan Payroll        │
+│  SHIPPED         🏗️ Confonda ERP             │
+│  LEARNING        ⚙️ Architecture & Systems   │
+│  IMPROVING       🧠 Engineering fundamentals │
+│  NEXT            🚀 Productization            │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
 ---
 
 <div align="center">
 
-# BUILD. SHIP. IMPROVE.
+## BUILD. SHIP. IMPROVE.
 
-### Currently building from Morocco 🇲🇦
+**One real system at a time.**
 
-**Open to freelance projects, collaborations & software opportunities**
+<br>
 
-📧 **[alifathan0210@gmail.com](mailto:alifathan0210@gmail.com)**
+<a href="mailto:alifathan0210@gmail.com">📧 Get in touch</a>
+  ·   <a href="https://github.com/alifathan07">GitHub</a>
+
+<br><br>
+
+`© ALI FATHAN`
 
 </div>
