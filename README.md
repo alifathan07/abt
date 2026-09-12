@@ -4,67 +4,48 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1720,50:121C28,100:C2793E&height=180&section=header&text=ALI%20FATHAN&fontSize=52&fontColor=E8EDF2&fontAlignY=55&desc=FULL-STACK%20%E2%80%A2%20BACKEND-FOCUSED%20%E2%80%A2%20BUILDER&descSize=14&descAlignY=75&descColor=C2793E" width="100%"/>
 
+<div align="center">
+
 <br>
 
-### `I build software that solves real business problems.`
+<h2>BUILDING SOFTWARE<br>THAT <em>MATTERS.</em></h2>
+
+<p>
+I build software that solves real business problems.
+</p>
 
 <br>
 
 <table>
 <tr>
-<td width="33%" align="center">
-
-**FULL-STACK**
-
-<br>
-
-`01`
-
-</td>
-
-<td width="33%" align="center">
-
-**BACKEND-FOCUSED**
-
-<br>
-
-`02`
-
-</td>
-
-<td width="33%" align="center">
-
-**BUILDER**
-
-<br>
-
-`03`
-
-</td>
+<td align="center"><sub>01</sub><br><b>FULL-STACK</b></td>
+<td width="40"></td>
+<td align="center"><sub>02</sub><br><b>BACKEND-FOCUSED</b></td>
+<td width="40"></td>
+<td align="center"><sub>03</sub><br><b>BUILDER</b></td>
 </tr>
 </table>
 
 <br>
 
-<code>📍 Casablanca, Morocco</code>
+<code>⌖ CASABLANCA, MOROCCO</code>
 
 <br><br>
 
 <a href="https://github.com/alifathan07">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-121C28?style=for-the-badge&logo=github&logoColor=E8EDF2&labelColor=121C28" />
+<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-121C28?style=for-the-badge&logo=github&logoColor=E8EDF2&labelColor=121C28" />
 </a>
-
-  
-
+&nbsp;
 <a href="mailto:alifathan0210@gmail.com">
-<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-C2793E?style=for-the-badge&logo=gmail&logoColor=0F1720&labelColor=C2793E" />
+<img src="https://img.shields.io/badge/GET_IN_TOUCH-C2793E?style=for-the-badge&logo=gmail&logoColor=0F1720&labelColor=C2793E" />
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C2793E&height=2&section=footer" width="80%"/>
+<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
 </div>
+
 
 
 <div align="center">
