@@ -1,76 +1,83 @@
-# Hey, I'm Ali 👋
+# Ali Fathan
 
-### Full-Stack Developer • Builder • Problem Solver
+**Full-Stack Developer · Backend Engineer · Builder**
 
-I build software that solves **real business problems**.
+I build software for **real businesses and real workflows**.
 
-Currently focused on **Node.js, Express, MySQL, Prisma, and backend development**, while building and improving real-world applications.
+Currently focused on **Node.js, Express, MySQL, Prisma, and backend architecture**.
 
----
-
-## 🧑‍💻 About Me
-
-* 🇲🇦 Based in Morocco
-* 💻 Full-stack developer focused on backend & business applications
-* 💰 Interested in building software that businesses actually pay for
-* 🧠 Improving my software architecture, databases, authentication, and system design
-* 🚀 Building my way from freelance projects → products → SaaS
-
-> I learn by building.
-> I prefer solving real problems over collecting tutorials.
+[GitHub](https://github.com/alifathan07) · [Email](mailto:alifathan0210@gmail.com)
 
 ---
 
-## 🚀 What I've Shipped
+## About
 
-### 🏗️ Confonda ERP
+I'm a developer from Morocco focused on building practical business software.
 
-A full-featured ERP built for a **real construction company** and used for day-to-day operations.
+I care about:
 
-It brings multiple business workflows into one system:
+* Building systems that solve actual operational problems
+* Understanding the business logic behind the software
+* Writing maintainable backend systems
+* Databases, authentication, architecture, and APIs
+* Turning software into products that people are willing to pay for
 
-* 📦 Purchasing & supplier management
-* 💰 Treasury & payments
-* 🧾 Sales & invoicing
-* 🏗️ Construction project management
-* 💵 Cash management
-* 👥 Users, roles & permissions
-* 📊 Dashboards & reports
-* 📄 PDF & Excel generation
-* 📱 Mobile/API integration
-* 📧 Email & WhatsApp notifications
-
-**Built with:** Node.js • Express • Prisma • MySQL • EJS
-
-This wasn't built as a tutorial or portfolio demo.
-
-**It was built to replace real manual workflows with software.**
+> **Learn → Build → Ship → Get Users → Get Paid**
 
 ---
 
-## 🔨 Currently Building
+# Selected Work
 
-### 🇲🇦 Moroccan Payroll System
+## Confonda ERP
 
-A payroll application designed around **Moroccan payroll rules and business workflows**.
+**Production ERP · Construction Industry**
 
-Currently working on:
+A full business management system built for a real construction company and used in daily operations.
 
-* 👥 Employee management
-* 💰 Payroll calculations
-* 🇲🇦 CNSS & AMO
-* 📊 Cumulative IR calculations
-* 🎁 Bonuses & deductions
-* 🧾 Payslips
-* 📚 Payroll history
-* 🏢 Company management
-* 🔐 Authentication & permissions
+### What it handles
 
-**Stack:** Node.js • Express • Prisma • MySQL • EJS
+| Area           | Functionality                                                                   |
+| -------------- | ------------------------------------------------------------------------------- |
+| Purchasing     | Suppliers, purchase requests, quotations, purchase orders, deliveries, invoices |
+| Treasury       | Banks, payments, cheques, transfers, collections                                |
+| Projects       | Construction sites, expenses, cash management                                   |
+| Sales          | Sales operations and invoicing                                                  |
+| Administration | Users, roles and permissions                                                    |
+| Reporting      | Dashboards, PDF and Excel generation                                            |
+| Communication  | Email and WhatsApp notifications                                                |
+| Mobile         | API integration and field operations                                            |
+
+**Stack**
+
+`Node.js` `Express` `Prisma` `MySQL` `EJS` `JavaScript`
+
+**Result**
+
+Built to replace manual business workflows with a centralized software system.
 
 ---
 
-## 🛠️ Tech Stack
+# Currently Building
+
+## Moroccan Payroll System
+
+A payroll application designed around **Moroccan payroll rules and company workflows**.
+
+### Core areas
+
+`Employees` · `Payroll` · `CNSS` · `AMO` · `IR` · `Bonuses` · `Payslips` · `Companies` · `Authentication`
+
+**Stack**
+
+`Node.js` `Express` `Prisma` `MySQL` `EJS`
+
+The goal is not another demo application.
+
+The goal is to build a payroll system that can be used by **real Moroccan businesses**.
+
+---
+
+# Technical Stack
 
 ### Backend
 
@@ -90,7 +97,7 @@ Currently working on:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### Tools & Other
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -98,28 +105,40 @@ Currently working on:
 
 ---
 
-## 🎯 What I'm Working Toward
+# What I'm Working Toward
+
+Becoming a stronger engineer by repeatedly doing the full cycle:
 
 ```text
-Learn → Build → Ship → Get Users → Get Paid → Repeat
+Problem
+   ↓
+Understand
+   ↓
+Build
+   ↓
+Ship
+   ↓
+Get Users
+   ↓
+Create Value
 ```
 
-My goal is simple:
-
-**Become a strong software engineer while building software that creates real business value.**
+I'm especially interested in **business software, SaaS, backend systems, and automation**.
 
 ---
 
-## 📫 Connect With Me
+## Contact
 
-* 💼 Open to freelance projects and software opportunities
-* 🧑‍💻 GitHub: [@alifathan07](https://github.com/alifathan07)
-* 📧 Email: [alifathan0210@gmail.com](mailto:alifathan0210@gmail.com)
+**Open to freelance projects, collaborations, and software opportunities.**
+
+📧 [alifathan0210@gmail.com](mailto:alifathan0210@gmail.com)
+
+💻 [github.com/alifathan07](https://github.com/alifathan07)
 
 ---
 
 <div align="center">
 
-### Building real software, one problem at a time.
+**Building software that solves real problems.**
 
 </div>
