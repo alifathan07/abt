@@ -108,17 +108,6 @@ My goal is simple:
 
 **Become a strong software engineer while building software that creates real business value.**
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alifathan07&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifathan07&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
@@ -126,6 +115,7 @@ My goal is simple:
 
 * 💼 Open to freelance projects and software opportunities
 * 🧑‍💻 GitHub: [@alifathan07](https://github.com/alifathan07)
+* 📧 Email: [alifathan0210@gmail.com](mailto:alifathan0210@gmail.com)
 
 ---
 
