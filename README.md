@@ -1,67 +1,74 @@
 <div align="center">
 
-# ALI FATHAN
+<br>
 
-### `FULL-STACK DEVELOPER` · `BUILDER` · `PROBLEM SOLVER`
+# ⚡ ALI FATHAN
 
-**I build software that replaces real-world chaos with systems.**
+### I BUILD SOFTWARE THAT **SOLVES REAL BUSINESS PROBLEMS.**
 
-🇲🇦 Morocco · Backend-focused · Business Software
+<br>
+
+`FULL-STACK DEVELOPER`  ·  `BACKEND FOCUSED`  ·  `BUILDER`
+
+🇲🇦 **Morocco**
+
+<br><br>
+
+<table>
+<tr>
+<td align="center">
+
+### 🏗️ SHIPPED
+
+**Confonda ERP**
+
+Real business software
+used by a construction company
+
+</td>
+
+<td align="center">
+
+### 🇲🇦 BUILDING
+
+**Moroccan Payroll**
+
+Payroll software
+built around Moroccan rules
+
+</td>
+
+<td align="center">
+
+### 🎯 FOCUS
+
+**Systems**
+
+Backend · Databases
+Business Logic · Products
+
+</td>
+</tr>
+</table>
+
+<br>
+
+> **I don't build projects just to show code.**
+> **I build systems that people can actually use.**
 
 <br>
 
 <a href="https://github.com/alifathan07">
-<img src="https://img.shields.io/badge/GitHub-alifathan07-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-18181B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:alifathan0210@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/LET'S_TALK-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### `SYSTEM STATUS`
-
-|                  | STATUS                               |
-| ---------------- | ------------------------------------ |
-| 🟢 **SHIPPED**   | Construction ERP                     |
-| 🔵 **BUILDING**  | Moroccan Payroll System              |
-| ⚡ **FOCUS**      | Backend · Databases · Business Logic |
-| 🎯 **DIRECTION** | Software → Products → SaaS           |
+<br><br>
 
 </div>
-
----
-
-# `01` — WHO I AM
-
-```text
-ali@morocco:~$ whoami
-
-Backend-focused full-stack developer
-building software for real businesses.
-
-I don't build projects just to put them on GitHub.
-
-I build → ship → get feedback → improve.
-
-Current interests:
-├── Backend architecture
-├── Business applications
-├── Databases & data modeling
-├── Authentication & permissions
-├── Payroll / financial systems
-└── Turning software into products
-```
-
-> **Real problems > tutorial projects.**
-
----
 
 # `02` — WHAT I'VE SHIPPED
 
