@@ -2,44 +2,80 @@
 
 <br>
 
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=0F1720&height=220&section=header&text=ALI%20FATHAN&fontSize=64&fontColor=E8EDF2&fontAlignY=45&desc=SOFTWARE%20%2F%20BUSINESS%20%2F%20SYSTEMS&descSize=13&descAlignY=64&descColor=C2793E"
-width="100%"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ALI%20FATHAN&fontSize=64&fontColor=E8EDF2&animation=fadeIn&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%2F%2F%20BUILDER%20%2F%2F%20SHIPPER&descSize=15&descColor=C2793E&descAlignY=62&color=0:080C12,50:101722,100:1B2735" />
 
 <br>
 
-<h1>
-I build software<br>
-<span style="color:#C2793E">for real businesses.</span>
-</h1>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=C2793E&center=true&vCenter=true&width=650&lines=I+build+software+for+real+businesses.;I+turn+messy+workflows+into+systems.;I+build.+Ship.+Improve." />
+</a>
 
-<p>
-Full-stack developer focused on backend systems, business logic<br>
-and turning messy real-world workflows into working software.
-</p>
+<br><br>
+
+<table>
+<tr>
+<td width="55%" align="left">
+
+### `ALI / FATHAN`
+
+**Full-Stack Developer**
+**Backend-Focused Builder**
+
+I build software that solves real business problems.
+
+Not just demos.
+Not just tutorials.
+
+**Real requirements → real systems → real users.**
 
 <br>
 
-<code>FULL-STACK</code>
-  ·   <code>BACKEND-FOCUSED</code>
-  ·   <code>BUILDER</code>
+`⌖ Casablanca, Morocco`
 
-<br><br>
+</td>
 
-<sub>⌖ CASABLANCA, MOROCCO</sub>
+<td width="45%" align="left">
 
-<br><br>
+```text
+╭──────────────────────────────╮
+│  SYSTEM STATUS               │
+│                              │
+│  ● BUILDING                  │
+│                              │
+│  CONFONDA ERP      SHIPPED   │
+│  MOROCCAN PAYROLL  BUILDING  │
+│                              │
+│  MODE                       │
+│  PRODUCT BUILDER             │
+│                              │
+│  NEXT                       │
+│  PRODUCTIZATION              │
+╰──────────────────────────────╯
+```
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <a href="https://github.com/alifathan07">
-<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-121C28?style=for-the-badge&logo=github&logoColor=E8EDF2" />
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-0B1017?style=for-the-badge&logo=github&logoColor=E8EDF2&labelColor=0B1017" />
 </a>
 &nbsp;
 <a href="mailto:alifathan0210@gmail.com">
-<img src="https://img.shields.io/badge/GET_IN_TOUCH-C2793E?style=for-the-badge&logo=gmail&logoColor=0F1720" />
+<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-C2793E?style=for-the-badge&logo=gmail&logoColor=0B1017&labelColor=C2793E" />
 </a>
 
-<br><br><br>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C2793E&section=header&width=100%" />
+
+<br>
+
+`FULL-STACK`   `BACKEND`   `SYSTEMS`   `BUSINESS SOFTWARE`   `PRODUCTS`
+
+<br><br>
 
 </div>
 
@@ -47,11 +83,11 @@ and turning messy real-world workflows into working software.
 
 <div align="center">
 
-### `01 / SHIPPED`
+## `01 / WHAT I'VE SHIPPED`
 
-# CONFONDA ERP
+### CONFONDA ERP
 
-**Real software. Real company. Real users.**
+**A real ERP. Built for a real construction company.**
 
 </div>
 
@@ -59,37 +95,54 @@ and turning messy real-world workflows into working software.
 <tr>
 <td width="60%" valign="top">
 
-A business ERP built for a construction company.
+I built Confonda ERP to replace fragmented manual workflows with one connected system.
 
-Instead of building another portfolio CRUD application, I built a system around actual operational requirements — purchasing, treasury, sales, construction sites, cash management and reporting.
+It is used for actual day-to-day operations — this wasn't built as a portfolio piece.
 
-**Built to be used, not demonstrated.**
+The system handles:
 
-<br>
-
-`NODE.JS` `EXPRESS` `PRISMA` `MYSQL` `EJS`
+* Purchasing & suppliers
+* Treasury & payments
+* Sales & invoicing
+* Construction sites
+* Cash management
+* Users & permissions
+* Dashboards & reports
+* PDF & Excel generation
+* Email & WhatsApp notifications
+* Mobile / API integration
 
 </td>
 
 <td width="40%" valign="top">
 
 ```text
-┌─────────────────────┐
-│     CONFONDA ERP    │
-├─────────────────────┤
-│                     │
-│  PURCHASES           │
-│       ↓              │
-│  SUPPLIERS           │
-│       ↓              │
-│  PROJECTS            │
-│       ↓              │
-│  TREASURY            │
-│       ↓              │
-│  CASH FLOW           │
-│                     │
-└─────────────────────┘
+CONFONDA / ERP
+
+PURCHASING
+     ↓
+SUPPLIERS
+     ↓
+PROJECTS
+     ↓
+TREASURY
+     ↓
+CASH FLOW
+     ↓
+REPORTING
+
+STATUS
+● SHIPPED
+● IN USE
 ```
+
+<br>
+
+`Node.js`
+`Express`
+`Prisma`
+`MySQL`
+`EJS`
 
 </td>
 </tr>
@@ -99,7 +152,7 @@ Instead of building another portfolio CRUD application, I built a system around 
 
 <div align="center">
 
-`✓ SHIPPED`    `✓ IN PRODUCTION`    `✓ DAILY USE`
+`REAL BUSINESS` ─── `REAL USERS` ─── `REAL REQUIREMENTS`
 
 </div>
 
@@ -107,51 +160,54 @@ Instead of building another portfolio CRUD application, I built a system around 
 
 <div align="center">
 
-### `02 / BUILDING`
+## `02 / CURRENT BUILD`
 
-# MOROCCAN PAYROLL
+### MOROCCAN PAYROLL SYSTEM
 
-**Payroll software built around Moroccan rules.**
+**Payroll software built around real Moroccan workflows.**
 
 <br>
-
-</div>
 
 <table>
 <tr>
-<td align="center">
+<td>
 
-**CNSS**
-
-<br>
-Contribution engine
-
-</td>
-
-<td align="center">
-
-**AMO**
-
-<br>
-Payroll deductions
-
-</td>
-
-<td align="center">
-
-**IR**
-
-<br>
-Cumulative taxation
+```text
+COMPANY
+   │
+   ▼
+EMPLOYEES
+   │
+   ▼
+PAYROLL ENGINE
+   │
+   ├── CNSS
+   ├── AMO
+   ├── SENIORITY
+   ├── ABSENCES
+   ├── BONUSES
+   ├── CUMULATIVE IR
+   └── NET SALARY
+   │
+   ▼
+BULLETIN
+```
 
 </td>
 
-<td align="center">
+<td align="left">
 
-**BULLETINS**
+### CURRENT FOCUS
+
+`01` Payroll calculations
+`02` Database design
+`03` Authentication
+`04` Business rules
+`05` Payslips
 
 <br>
-Payslip generation
+
+**Built around actual Moroccan payroll rules, not generic demo calculations.**
 
 </td>
 </tr>
@@ -159,178 +215,230 @@ Payslip generation
 
 <br>
 
-<div align="center">
-
-```text
-EMPLOYEE
-    │
-    ▼
-PAYROLL RULES
-    │
-    ├── CNSS
-    ├── AMO
-    ├── SENIORITY
-    ├── ABSENCES
-    ├── BONUSES
-    └── CUMULATIVE IR
-            │
-            ▼
-        NET SALARY
-            │
-            ▼
-         BULLETIN
-```
-
-**Current focus:** calculations → database → authentication → business rules → payslips
+<img src="https://progress-bar.dev/70/?title=BUILDING&width=500&color=C2793E" />
 
 </div>
 
 ---
 
-# THE STACK
-
 <div align="center">
+
+## `03 / THE STACK`
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,js,mysql,prisma,html,css,jquery,git,github,vscode,postman&perline=6" />
 
+<br><br>
+
+```text
+BACKEND        DATABASE        FRONTEND        TOOLS
+Node.js        MySQL           HTML            Git
+Express        Prisma          CSS             GitHub
+JavaScript                     jQuery          VS Code
+                                               Postman
+```
+
 </div>
+
+---
+
+<div align="center">
+
+## `04 / HOW I BUILD`
+
+<br>
+
+```text
+       PROBLEM
+          │
+          ▼
+   REQUIREMENTS
+          │
+          ▼
+      DATA MODEL
+          │
+          ▼
+   BUSINESS LOGIC
+          │
+          ▼
+         API
+          │
+          ▼
+          UI
+          │
+          ▼
+     REAL USERS
+          │
+          ▼
+       FEEDBACK
+          │
+          ▼
+       IMPROVE
+          │
+          └───────────────↻
+```
+
+<br>
+
+I care less about collecting technologies and more about understanding the path from
+
+**problem → product.**
+
+</div>
+
+---
+
+<div align="center">
+
+## `05 / PHILOSOPHY`
 
 <br>
 
 <table>
 <tr>
-<td width="25%">
+<td align="center">
 
-**BACKEND**
+### `LEARN`
 
-Node.js
-Express
-JavaScript
+Understand the system.
 
 </td>
 
-<td width="25%">
+<td align="center">
 
-**DATA**
+### `BUILD`
 
-MySQL
-Prisma
-
-</td>
-
-<td width="25%">
-
-**FRONTEND**
-
-EJS
-HTML
-CSS
-jQuery
+Solve the real problem.
 
 </td>
 
-<td width="25%">
+<td align="center">
 
-**TOOLING**
+### `SHIP`
 
-Git
-GitHub
-VS Code
-Postman
+Put it in production.
+
+</td>
+
+<td align="center">
+
+### `IMPROVE`
+
+Listen. Iterate. Repeat.
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-<div align="center">
-
-# HOW I BUILD
-
-### `PROBLEM → SYSTEM → PRODUCT`
+```js
+const philosophy = {
+  learn: "understand the system",
+  build: "solve the real problem",
+  ship: "put it in production",
+  feedback: "listen to users",
+  improve: "repeat",
+};
+```
 
 </div>
 
+---
+
+<div align="center">
+
+## `06 / DIRECTION`
+
+<br>
+
 ```text
-                    REAL PROBLEM
-                         │
-                         ▼
-                   REQUIREMENTS
-                         │
-                         ▼
-                     DATA MODEL
-                         │
-                         ▼
-                   BUSINESS LOGIC
-                         │
-                         ▼
-                      BACKEND
-                         │
-                         ▼
-                         UI
-                         │
-                         ▼
-                    REAL USERS
-                         │
-                         ▼
-                     FEEDBACK
-                         │
-                         └──────────────┐
-                                        ▼
-                                      IMPROVE
+FREELANCE
+    ↓
+REAL SOFTWARE
+    ↓
+BUSINESS SYSTEMS
+    ↓
+PRODUCTS
+    ↓
+SAAS
 ```
 
-I care less about collecting frameworks and more about understanding the entire path from **problem → production**.
+<br>
+
+### The goal isn't to know thirty frameworks.
+
+### The goal is to take a real problem,
+
+### build the system,
+
+### ship it,
+
+### and get paid for it.
+
+</div>
 
 ---
 
 <div align="center">
 
-# WHERE I'M GOING
+## `07 / NOW`
 
 <br>
 
-`FREELANCE`
- → 
-`REAL SOFTWARE`
- → 
-`BUSINESS SYSTEMS`
- → 
-`PRODUCTS`
- → 
-`SAAS`
+<table>
+<tr>
+<td>
+
+**BUILDING**
+
+Moroccan Payroll
+
+</td>
+<td>
+
+**SHIPPED**
+
+Confonda ERP
+
+</td>
+<td>
+
+**LEARNING**
+
+Architecture & systems design
+
+</td>
+<td>
+
+**IMPROVING**
+
+Engineering fundamentals
+
+</td>
+<td>
+
+**NEXT**
+
+Productization
+
+</td>
+</tr>
+</table>
 
 <br><br>
 
-> **Build things people actually need.**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1B2735,50:101722,100:080C12" />
 
-<br>
+<h2>BUILD. SHIP. IMPROVE.</h2>
 
----
-
-### CURRENTLY
-
-`BUILDING` **Moroccan Payroll**
-
-`SHIPPED` **Confonda ERP**
-
-`LEARNING` **Architecture & Systems Design**
-
-`IMPROVING` **Engineering Fundamentals**
-
-`NEXT` **Productization**
+`one real system at a time.`
 
 <br><br>
-
-# BUILD. SHIP. IMPROVE.
-
-**One real system at a time.**
-
-<br>
 
 <a href="mailto:alifathan0210@gmail.com">GET IN TOUCH</a>
-  ·   <a href="https://github.com/alifathan07">GITHUB</a>
+  •   <a href="https://github.com/alifathan07">GITHUB</a>
 
 <br><br>
 
