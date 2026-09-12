@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer • Builder • Problem Solver
 
-I build software that solves **real business problems**
+I build software that solves **real business problems**.
 
 Currently focused on **Node.js, Express, MySQL, Prisma, and backend development**, while building and improving real-world applications.
 
@@ -12,13 +12,61 @@ Currently focused on **Node.js, Express, MySQL, Prisma, and backend development*
 
 * 🇲🇦 Based in Morocco
 * 💻 Full-stack developer focused on backend & business applications
-* 🏗️ Built and shipped an ERP used by a real construction company
-* 💰 Interested in building software people and businesses actually pay for
-* 🧠 Currently improving my software architecture, databases, authentication, and system design
+* 💰 Interested in building software that businesses actually pay for
+* 🧠 Improving my software architecture, databases, authentication, and system design
 * 🚀 Building my way from freelance projects → products → SaaS
 
 > I learn by building.
 > I prefer solving real problems over collecting tutorials.
+
+---
+
+## 🚀 What I've Shipped
+
+### 🏗️ Confonda ERP
+
+A full-featured ERP built for a **real construction company** and used for day-to-day operations.
+
+It brings multiple business workflows into one system:
+
+* 📦 Purchasing & supplier management
+* 💰 Treasury & payments
+* 🧾 Sales & invoicing
+* 🏗️ Construction project management
+* 💵 Cash management
+* 👥 Users, roles & permissions
+* 📊 Dashboards & reports
+* 📄 PDF & Excel generation
+* 📱 Mobile/API integration
+* 📧 Email & WhatsApp notifications
+
+**Built with:** Node.js • Express • Prisma • MySQL • EJS
+
+This wasn't built as a tutorial or portfolio demo.
+
+**It was built to replace real manual workflows with software.**
+
+---
+
+## 🔨 Currently Building
+
+### 🇲🇦 Moroccan Payroll System
+
+A payroll application designed around **Moroccan payroll rules and business workflows**.
+
+Currently working on:
+
+* 👥 Employee management
+* 💰 Payroll calculations
+* 🇲🇦 CNSS & AMO
+* 📊 Cumulative IR calculations
+* 🎁 Bonuses & deductions
+* 🧾 Payslips
+* 📚 Payroll history
+* 🏢 Company management
+* 🔐 Authentication & permissions
+
+**Stack:** Node.js • Express • Prisma • MySQL • EJS
 
 ---
 
@@ -50,54 +98,6 @@ Currently focused on **Node.js, Express, MySQL, Prisma, and backend development*
 
 ---
 
-## 🚀 What I've Shipped
-
-### 🏗️ Confonda ERP
-
-A web-based ERP built for a construction company and used for actual day-to-day operations.
-
-It brings together:
-
-* 📦 Purchasing & suppliers
-* 💰 Treasury & payments
-* 🧾 Sales & invoicing
-* 🏗️ Construction projects
-* 💵 Cash management
-* 👥 User management & permissions
-* 📊 Dashboards & reports
-* 📄 PDF & Excel generation
-* 📱 Mobile/API integration
-* 📧 Email & WhatsApp notifications
-
-**Built with:** Node.js • Express • Prisma • MySQL • EJS
-
-The goal wasn't to build another demo project.
-**It was built to replace real manual workflows with software.**
-
----
-
-## 🔨 Currently Building
-
-### 🇲🇦 Moroccan Payroll System
-
-A payroll application designed around **Moroccan payroll rules and business workflows**.
-
-Currently working on:
-
-* Employee management
-* Payroll calculations
-* CNSS & AMO
-* IR cumulative calculations
-* Bonuses & deductions
-* Payslips
-* Payroll history
-* Company management
-* Authentication & permissions
-
-**Stack:** Node.js • Express • Prisma • MySQL • EJS
-
----
-
 ## 🎯 What I'm Working Toward
 
 ```text
@@ -107,7 +107,6 @@ Learn → Build → Ship → Get Users → Get Paid → Repeat
 My goal is simple:
 
 **Become a strong software engineer while building software that creates real business value.**
-
 
 ---
 
